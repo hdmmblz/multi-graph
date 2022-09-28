@@ -19,6 +19,7 @@ Run `pip install -r requirements.txt` to install all dependencies.
 Download datasets from , then unzip it under `src/`
 
 Temporal Real-world dataset are from https://www.dropbox.com/s/yo74hwj7k8alpuj/ICML2022-Data-Submit.zip?dl=0&file_subpath=%2FICML2022-Data-Submit
+
 Static Real-world dataset are from https://github.com/yangjunhuiyjh/RGCN which is preprocessed by adding reverse relations, downloaded from `torch_geometric`
 
 Run the command in `python src/main.py [dataset] [time_range] [num_relation]`. The results will be printed to console and logged in `src/logging/results`. A single file will collect the last epoch for each experiment for each dataset.
