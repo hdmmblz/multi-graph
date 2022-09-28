@@ -22,7 +22,7 @@ Temporal Real-world dataset are from https://www.dropbox.com/s/yo74hwj7k8alpuj/I
 
 Static Real-world dataset are from https://github.com/yangjunhuiyjh/RGCN which is preprocessed by adding reverse relations, downloaded from `torch_geometric`
 
-Run the command in `python src/main.py [dataset] [time_range] [num_relation]`. The results will be printed to console and logged in `src/logging/results`. A single file will collect the last epoch for each experiment for each dataset.
+Run the command as `python src/main.py [dataset] [time_range] [num_relation]`. The results will be printed to console and logged in `src/logging/results`. A single file will collect the last epoch for each experiment for each dataset.
 
 A description for different datasets and the specific arguments they needed are as follows:
 
