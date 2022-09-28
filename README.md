@@ -16,7 +16,7 @@ Run `pip install -r requirements.txt` to install all dependencies.
 
 ## Replicate results
 
-Download datasets from , then unzip it under `src/`
+Download datasets from https://drive.google.com/file/d/1t8oKegE79ctV5aiMKyklmXbV5-fCODgk/view?usp=sharing, then unzip it under `src/`
 
 Temporal Real-world dataset are from https://www.dropbox.com/s/yo74hwj7k8alpuj/ICML2022-Data-Submit.zip?dl=0&file_subpath=%2FICML2022-Data-Submit
 
