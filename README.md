@@ -19,3 +19,18 @@ Run `pip install -r requirements.txt` to install all dependencies.
 Run the command in `python src/main.py [dataset] [time_range] [num_relation]`. The results will be printed to console and logged in `src/logging/results`. A single file will collect the last epoch for each experiment for each dataset.
 
 A description for different datasets and the specific arguments they needed are as follows:
+
+```
+tp1 2 1
+tp2 2 1
+tp3 2 1
+tp1_trans 1 2
+tp2_trans 1 2
+tp3_trans 1 2
+tp4 10 3
+tp4_trans 1 30
+mutag 1 46
+aifb 1 90
+brain 12 10
+```
+
