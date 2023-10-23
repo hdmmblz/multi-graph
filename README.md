@@ -1,5 +1,4 @@
 # Calibrate and Boost Logical Expressiveness of GNN Over Multi-Relational and Temporal Graphs
-Graphs
 
 Code for the paper Calibrate and Boost Logical Expressiveness of GNN Over Multi-Relational and Temporal Graphs。
 
