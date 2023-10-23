@@ -1,8 +1,7 @@
-# Logical Expressiveness Of GNNs Over Multi-edge
+# Calibrate and Boost Logical Expressiveness of GNN Over Multi-Relational and Temporal Graphs
 Graphs
 
-Code for the paper Logical Expressiveness Of GNNs Over Multi-edge
-Graphs.
+Code for the paper Calibrate and Boost Logical Expressiveness of GNN Over Multi-Relational and Temporal Graphs。
 
 Builds based on https://github.com/juanpablos/GNN-logic/tree/master/src
 
